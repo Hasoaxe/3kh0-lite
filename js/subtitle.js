@@ -1,17 +1,16 @@
 function getRandomGreeting() {
   var greetings = [
     "Beep boop! Are you a robot?",
-    "Did you know I have a discord server?",
     "How many sides does a circle have?",
     "You can read btw",
     "Made you look!",
     "Redbull gives you wings...",
-    "Since 2020!",
+    "Since 2020(4)!",
     "As seen on TV!",
     "doot doot",
     "Cold as ice!",
     "Made in the US!",
-    "Made by 3kh0!",
+    "Made by 3kh0!(this version hosted by Haso)",
     "Reload the page NOW!",
     "Downloading your passwords...",
     "Running 3kh0.exe",
@@ -26,7 +25,7 @@ function getRandomGreeting() {
     "My iPad passcode is 563543 btw",
     "Sponsered by RAID SHADOW LEGENDS!",
     "Sponsored by Honey!",
-    "Sponsored by 3kh0!",
+    "Sponsored by 3kh0!(i wish)",
     "Piplup is cute",
     "3kh0 is a bozo",
     "Powered by 128 Gigs of RAM!",
@@ -78,6 +77,7 @@ function getRandomGreeting() {
     "Mission failed, we will get them next time",
     "NUKE INCOMING!",
     "I spent too much time making these",
+    "Thanks 3kh0-Hasoaxe",
   ];
   var randomIndex = Math.floor(Math.random() * greetings.length);
   return greetings[randomIndex];
